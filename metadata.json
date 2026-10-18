@@ -1,0 +1,6 @@
+{
+  "name": "Merkle FIM",
+  "description": "Client-side File Integrity Monitoring (FIM) with cryptographic Merkle tree indexing, tamper detection, and visual tree traversal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
